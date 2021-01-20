@@ -1,4 +1,7 @@
 # A Lightweight Library for CD74HC4067 - Arduino
+[![GitHub release](https://img.shields.io/github/release/SunitRaut/Heatmap-Visualization-JS.svg)](https://github.com/SunitRaut/Heatmap-Visualization-JS)
+[![license](https://img.shields.io/github/license/SunitRaut/Heatmap-Visualization-JS.svg)](https://github.com/SunitRaut/Heatmap-Visualization-JS/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4451603.svg)](https://doi.org/10.5281/zenodo.4451603)
 
 A lightweight, low memory consuming CD74HC4067 Library for Arduino IDE based microcontrollers
 
