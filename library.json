@@ -1,6 +1,6 @@
 {
   "name": "light_CD74HC4067",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": "CD74HC4067,mux,multiplexer,analog",
   "description": "A lightweight library for interfacing with CD74HC4067 Mux.",
   "repository":
