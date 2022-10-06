@@ -30,7 +30,7 @@
 
 #include <light_CD74HC4067.h>
 
-               // s0 s1 s2 s3: select pins
+            // s0 s1 s2 s3: select pins
 CD74HC4067 mux(4, 5, 6, 7);  // create a new CD74HC4067 object with its four select lines
 
 const int signal_pin = A0; // Pin Connected to Sig pin of CD74HC4067
@@ -44,7 +44,7 @@ void setup()
 void loop()
 {
   // loop through channels 0 - 15
-    for (int i = 0; i < 16; i++) {
+    for (byte i = 0; i < 16; i++) {
         mux.channel(i);
         int val = analogRead(signal_pin);                       // Read analog value
         Serial.println("Channel "+String(i)+": "+String(val));  // Print value
