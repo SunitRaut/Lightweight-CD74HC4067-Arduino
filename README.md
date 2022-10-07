@@ -24,3 +24,5 @@ Set the channel using the channel() method
 ```
 mux.channel(8);    // Enter channel numbers from 0 - 15
 ```
+
+Here is an [instructable with simple example](https://www.instructables.com/Arduino-Interfacing-With-CD74HC4067-16-channel-MUX/)
