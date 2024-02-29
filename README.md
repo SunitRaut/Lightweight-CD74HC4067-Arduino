@@ -26,3 +26,9 @@ mux.channel(8);    // Enter channel numbers from 0 - 15
 ```
 
 Here is an [instructable with simple example](https://www.instructables.com/Arduino-Interfacing-With-CD74HC4067-16-channel-MUX/)
+
+## If you Like my Work, Buy me a Coffee!
+
+If this library makes your life easier and has helped bring your project to reality, I would appreciate a small token of gratitude. Click on the below icon to contribute.
+
+<a href="https://www.buymeacoffee.com/sunitraut" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
